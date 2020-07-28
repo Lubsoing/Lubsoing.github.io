@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scuola dell&#039;Infanzia Santo Stefano Brescia</title>
+	<atom:link href="https://www.scuolasantostefano.it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.scuolasantostefano.it</link>
+	<description>Sito della Scuola Santo Stefano a Brescia</description>
+	<lastBuildDate>Tue, 28 Jul 2020 19:55:44 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.4</generator>
+
+<image>
+	<url>https://www.scuolasantostefano.it/wp-content/uploads/2019/09/cropped-Favicon-32x32.png</url>
+	<title>Scuola dell&#039;Infanzia Santo Stefano Brescia</title>
+	<link>https://www.scuolasantostefano.it</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
